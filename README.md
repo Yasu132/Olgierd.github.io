@@ -24,9 +24,9 @@
 <hl> wylandowski </h6><br>
 
 <p align="right"> <font color="purple" size="1" face="calibri"> :-)     usmiech </font> </p> <br>
-<p align="right"> <font color="yellow" size="2" face="calibri"> :-)     usmiech </font> </p> <br>
-<p align="right"> <font color="red" size="3" face="calibri"> :-)     usmiech </font> </p> <br>
-<p align="right"> <font color="green" size="4" face="calibri"> :-)     usmiech </font> </p> <br>
-<p align="right"> <font color="pink" size="5" face="calibri"> :-)     usmiech </font> </p> <br>
-<p align="right"> <font color="blue" size="6" face="calibri"> :*      buziaczek </font> </p> <br>
+<p align="right"> <font color="yellow" size="2" face="calibri"> :>     usmiech </font> </p> <br>
+<p align="right"> <font color="red"   size="3" face="calibri">  ;)     mrugniecie </font> </p> <br>
+<p align="right"> <font color="green" size="4" face="calibri"> >:(     zlosc </font> </p> <br>
+<p align="right"> <font color="pink"  size="5" face="calibri"> :(      smutek </font> </p> <br>
+<p align="right"> <font color="blue"  size="6" face="calibri"> :*      buziaczek </font> </p> <br>
 <p align="right"> <font color="brown" size="7" face="calibri"> :/      niezadowolenie </font> </p> <br>
